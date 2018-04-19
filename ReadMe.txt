@@ -14,8 +14,8 @@ The models and scripts provided here are intended to help users develop a LiDAR 
 
 	-Other-3D_Neural_Network_Implementations contain the code for Alexnet, Resnet, and Googlenet models. 
 
-	-Parametric_Modelling contains data and code to train traditional LiDAR forest inventory models using height models extracted from the USFS's FUSION and both Random Forest and Linear Mixed Models. Results and additional material are also in here.
+	-Parametric_Modelling contains data and code to train traditional LiDAR forest inventory models using height metrics extracted from the USFS's FUSION and both Random Forest and Linear Mixed Models. Results and additional material are also in here.
 
 Please contact me with any questions at elias.ayrey@maine.edu. I'm happy to help with simple problems or consult on the creation of new models. I also have better performing models than these that I might be able to share (not published yet).
 
-I am aware the code is poorly formatted and a bit dense. I'm just a grad student trying to get the job done ASAP.
+Sorry the code is poorly formatted and a bit dense. I'm just a grad student trying to get the job done ASAP!
