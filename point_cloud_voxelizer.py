@@ -9,12 +9,13 @@ counts the number of points inside of those bins.
 
 This script requires normalized and tiled LiDAR data. The elevation of the ground must be equal to zero. 
 You must read in a LAS file that is a single tile, as in an area that is 10x10 m, 20x20 m, ect..
+
+One thing to note is that the LASPY package is required to read in LAS files.
 """
 import numpy as np
 import laspy
 import os
 from glob import glob
-from PIL import Image
 import pandas as pd
 
 #Directory or directories storing the tiled LiDAR files (LAS files)
